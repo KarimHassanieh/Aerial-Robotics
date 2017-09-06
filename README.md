@@ -6,7 +6,8 @@ This respoitory contains projects done in the  Aerial Robotics course part of th
 ### For more information on the course :
 
  * Coursera Page for [Robotics specialization](https://www.coursera.org/specializations/robotics) 
-
+ * Coursera Page for [Aerial Robotics](https://www.coursera.org/learn/robotics-flight) 
+ 
 ## Programming Project 1 - PD Control of Quadrator height in 1-D
 
 
