@@ -18,7 +18,7 @@ __**Objective :**__ The goal of  this exercise is  to implement a PD controller 
 as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
 have a rise time of less than 1s and a maximum overshoot of less than 5%.
                                           
-#+html: <p align="center"><img src="./Images/Project%201/1-D_Quadrotor.jpg" /></p>
+ <p align="center"><img src="./Images/Project%201/1-D_Quadrotor.jpg" /></p>
 
 __**Dynamics of a Quadrotor in 1-D :**__
 
