@@ -1,6 +1,6 @@
 # Ariel-Robotics
 [//]: # (Image References)
-[image1]: ./Images/Project1/1-D_Quadrotor.jpg
+[image1]: ./Images/Project 1/1-D_Quadrotor.jpg
 
 This respoitory contains projects done in the  Aerial Robotics course part of the Robotics Specailization at Coursera. The course was  taught by Prof Vijay Kumar at UPenn. This respotiry is meant to share the results of the projects done and their implementation.
 
