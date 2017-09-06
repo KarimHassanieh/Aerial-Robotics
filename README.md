@@ -19,6 +19,6 @@ have a rise time of less than 1s and a maximum overshoot of less than 5%.
 
 ![alt text][image1]
 
-**1-D Dynamics of a Quadrotor** $ \sum_{\forall i}{x_i^{2}} $
+_**1-D Dynamics of a Quadrotor**_ $ \sum_{\forall i}{x_i^{2}} $
 
 
