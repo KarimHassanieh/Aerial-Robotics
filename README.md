@@ -16,8 +16,10 @@ _**Orignal source code is provided and licensed by Coursera Robotics Specailizat
 __**Objective :**__ The goal of  this exercise is  to implement a PD controller to control the height of a quadrotor, as well
 as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
 have a rise time of less than 1s and a maximum overshoot of less than 5%.
-
-![alt text][image1]
+<p align="center">
+  <image1 />
+</p>
+                                                     
 
 __**Dynamics of a Quadrotor in 1-D :**__
  $ \sum_{\forall i}{x_i^{2}} $
