@@ -1,4 +1,4 @@
-# Ariel-Robotics
+# Aerial-Robotics
 [//]: # (Image References)
 
 [image1]:./Images/Project%201/1-D_Quadrotor.jpg
