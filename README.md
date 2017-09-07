@@ -29,10 +29,9 @@ __**Dynamics of a Quadrotor in 1-D :**__
 __**Results Obtained :**__
 
 
-## Programming Project 1 - PD Control of Quadrator in X-Y Plane 2-D
+## Programming Project 2 - PD Control of Quadrator in 2-D Plane 
 
-__**Objective :**__ The goal of  this exercise is  to implement a PD controller to control the height of a quadrotor, as well
-as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
+__**Objective :**__ The goal of  this exercise is  to implement a PD controller to control the motion of a quadrotor in 2-D plane , as well as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
 have a rise time of less than 1s and a maximum overshoot of less than 5%.
 
  <p align="center"><img src="./Images/Project%202/quad.jpg" /></p>
