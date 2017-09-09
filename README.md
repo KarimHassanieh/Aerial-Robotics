@@ -37,3 +37,14 @@ __**Objective :**__ The goal of  this exercise is  to implement a PD controller 
 have a rise time of less than 1s and a maximum overshoot of less than 5%.
 
  <p align="center"><img src="./Images/Project%202/quad.jpg" /></p>
+ 
+ 
+__**Results Obtained for Line Trajectory :**__
+
+ <p align="center"><img src="./Images/Project%202/line_2d.gif" /></p>
+ 
+ __**Results Obtained for Sine Wave Trajectory :**__
+
+ <p align="center"><img src="./Images/Project%202/sine_2d.gif" /></p>
+ 
+ 
