@@ -28,6 +28,8 @@ __**Dynamics of a Quadrotor in 1-D :**__
 
 __**Results Obtained :**__
 
+ <p align="center"><img src="./Images/Project%201/pdcontrol_1d.gif" /></p>
+
 
 ## Programming Project 2 - PD Control of Quadrator in 2-D Plane 
 
