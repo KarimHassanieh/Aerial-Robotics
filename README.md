@@ -28,7 +28,9 @@ __**Results Obtained :**__
 
 ## Programming Project 2 - PD Control of Quadrator in 2-D Plane 
 
-__**Objective :**__ The goal of  this exercise is  to implement a PD controller to control the motion of a quadrotor in 2-D plane , as well as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
+__**Objective :**__ 
+
+The goal of  this exercise is  to implement a PD controller to control the motion of a quadrotor in 2-D plane , as well as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
 have a rise time of less than 1s and a maximum overshoot of less than 5%. Two trajectories were tested. The first was quadrotor on a straight line while the second was a trajectory on a sine wave plath.
 
  <p align="center"><img src="./Images/Project%202/quad.jpg" /></p>
