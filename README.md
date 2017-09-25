@@ -21,11 +21,6 @@ have a rise time of less than 1s and a maximum overshoot of less than 5%.
                                           
  <p align="center"><img src="./Images/Project%201/1-D_Quadrotor.jpg" /></p>
 
-__**Dynamics of a Quadrotor in 1-D :**__
-
-![equation](http://latex.codecogs.com/gif.latex?U_t%3D%5Ctext%20%7B%20Control%20Input%20at%20time%20%7D%20t)
-![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
-
 __**Results Obtained :**__
 
  <p align="center"><img src="./Images/Project%201/pdcontrol_1d.gif" /></p>
@@ -34,7 +29,7 @@ __**Results Obtained :**__
 ## Programming Project 2 - PD Control of Quadrator in 2-D Plane 
 
 __**Objective :**__ The goal of  this exercise is  to implement a PD controller to control the motion of a quadrotor in 2-D plane , as well as tune its gains. The controller only contains a Proportional and Derivate gain. In addition the input should
-have a rise time of less than 1s and a maximum overshoot of less than 5%.
+have a rise time of less than 1s and a maximum overshoot of less than 5%. Two trajectories were tested. The first was quadrotor on a straight line while the second was a trajectory on a sine wave plath.
 
  <p align="center"><img src="./Images/Project%202/quad.jpg" /></p>
  
